@@ -1,0 +1,49 @@
+body {
+    justify-items: center;
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    padding: 24px ;
+    border-radius: 8px ;
+    background-color: beige;
+}
+
+input[type=number], textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button {
+    border: 0px ;
+    padding: 8px ;
+    color: chartreuse;
+    border-radius: 7px ;
+    cursor: pointer;
+}
+
+/* Global Usage */
+.padding-medium {
+    padding: 16px ;
+}
+
+.rumus-content {
+    font-size: 20;
+     font-weight: bold;
+}
+
+bg-lightgreen {
+    background-color: lightgreen;
+} 
+bg-lightcoral {
+    background-color: lightcoral;
+}
+bg-blueviolet {
+    background-color: blueviolet;
+/* Global Usage */
