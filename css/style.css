@@ -37,12 +37,13 @@ button {
      font-weight: bold;
 }
 
-bg-lightgreen {
+button {
     background-color: lightgreen;
 } 
-bg-lightcoral {
+button {
     background-color: lightcoral;
 }
-bg-blueviolet {
+button {
     background-color: blueviolet;
 /* Global Usage */
+}
