@@ -23,7 +23,6 @@ input[type=number], textarea {
 button {
     border: 0px ;
     padding: 8px ;
-    color: chartreuse;
     border-radius: 7px ;
     cursor: pointer;
 }
